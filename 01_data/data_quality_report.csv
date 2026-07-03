@@ -1,0 +1,15 @@
+check,value,note
+Uploaded case file rows,183,Rows in measles_epi_data.csv
+Uploaded vaccination file rows,134,Rows in measles_vax_data.csv
+Uploaded social comment rows,115,Rows in nlp_categorized_comments.csv
+Case date range,2026-04-04 to 2026-05-11,Parsed using DD-MM-YYYY
+Vaccination date range,2026-04-16 to 2026-05-11,Parsed using DD-MM-YYYY
+Case divisions present,"Chattogram, Dhaka, Khulna, Rajshahi, Rangpur",Only 5 of 8 Bangladesh divisions in uploaded case data
+Vaccination divisions present,"Chattogram, Dhaka, Khulna, Rajshahi, Rangpur",Only 5 of 8 Bangladesh divisions in uploaded vaccination data
+All-zero case extraction rows,41,Flagged as likely OCR/extraction/missing rows; not treated as confirmed zero incidence
+Vaccination duplicate date-division rows,51,Aggregated to avg/min/max/observation count
+Vaccination values >100%,37,"Kept raw, capped at 100 for coverage-gap calculations"
+Metric warning,Deaths_Metric_A/B labels are ambiguous,Retained as raw metrics and modeled daily metric_b where possible; validate against original DGHS PDF tables
+Power BI model fix v2,Applied,dim_date extended through forecast max date; forecast national rollup added to dim_division
+Blank slicer fix,Applied,All fact date_key and division_key values now have matching dimension keys
+Missing coverage handling,Preserved,Vaccination coverage blanks were kept where no data exists; coverage_status uses No data to avoid misleading zero coverage

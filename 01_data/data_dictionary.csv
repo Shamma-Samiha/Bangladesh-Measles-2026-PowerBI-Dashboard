@@ -1,0 +1,16 @@
+table,field,definition
+final_boss_measles_panel.csv,date_key,YYYYMMDD integer key for Power BI relationships
+final_boss_measles_panel.csv,cases_raw_extracted,Raw uploaded Cumulative_Cases column; mixed/ambiguous metric
+final_boss_measles_panel.csv,cases_modeled_daily,"ETL-modeled daily cases: early cumulative diff, later raw daily, zero extraction rows set null"
+final_boss_measles_panel.csv,cases_modeled_cumulative,Modeled cumulative cases using early cumulative baseline plus daily increments
+final_boss_measles_panel.csv,vax_coverage_avg,Average of duplicate reported coverage values per date-division
+final_boss_measles_panel.csv,vax_coverage_capped_100,Coverage capped at 100 for gap/risk calculations
+final_boss_measles_panel.csv,coverage_gap_to_95_pct_points,95 minus capped coverage; floor at 0
+final_boss_measles_panel.csv,risk_score_0_100,"Composite portfolio risk score using incidence, growth, vaccination gap, population density"
+fact_cases_forecast.csv,series_type,Actual or Forecast
+fact_cases_forecast.csv,cases_forecast_lower / upper,Simple uncertainty band from recent residual spread
+fact_social_comments.csv,category,NLP-assigned social concern category from uploaded comments
+source_catalog.csv,validation_level,How trustworthy/actionable this source is for the dashboard
+dim_date.csv,date_key,Continuous date key from earliest case date through latest forecast date; prevents blank date slicer values
+dim_division.csv,national_uploaded_5_divisions,Synthetic rollup member used only to connect national forecast records to the division dimension
+division_risk_snapshot.csv,risk_band,Risk label; No Data is used when uploaded case data is missing rather than leaving blank

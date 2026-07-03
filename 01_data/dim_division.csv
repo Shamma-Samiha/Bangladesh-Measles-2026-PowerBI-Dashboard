@@ -1,0 +1,10 @@
+division_key,division,population_2022_census,area_km2,population_density_per_km2,latitude,longitude,uploaded_data_coverage_note,population_source,area_source
+barishal,Barishal,9100102,13297,684.3725652402798,22.7,90.37,No current uploaded outbreak rows,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+chattogram,Chattogram,33202326,33771,983.1608776761126,22.36,91.78,Uploaded outbreak rows available,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+dhaka,Dhaka,44215107,20551,2151.482020339643,23.81,90.41,Uploaded outbreak rows available,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+khulna,Khulna,17416645,22272,781.997350933908,22.82,89.55,Uploaded outbreak rows available,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+mymensingh,Mymensingh,12225498,10569,1156.7317627022423,24.75,90.41,No current uploaded outbreak rows,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+rajshahi,Rajshahi,20353119,18197,1118.4876078474474,24.37,88.6,Uploaded outbreak rows available,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+rangpur,Rangpur,17610956,16317,1079.3010970153828,25.75,89.25,Uploaded outbreak rows available,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+sylhet,Sylhet,11034863,12596,876.0608923467768,24.89,91.87,No current uploaded outbreak rows,Bangladesh Population and Housing Census 2022 as reported by Daily Sun,Geo-ref Bangladesh Census 2022 division table
+national_uploaded_5_divisions,National Uploaded 5 Divisions,132798153,111108,1195.216843071606,23.685,90.3563,National rollup used for forecast only; not a geographic division,Sum of uploaded-data divisions in dim_division.csv,Sum of uploaded-data divisions in dim_division.csv

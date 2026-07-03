@@ -1,0 +1,9 @@
+division,last_7d_cases,prior_7d_cases,last_7d_cases_per_million,case_growth_ratio_7d_vs_prior,latest_vax_coverage_pct,population_density_per_km2,has_uploaded_case_data,incidence_component,growth_component,vax_gap_component,density_component,risk_score_0_100,risk_band,risk_note
+Barishal,0.0,0.0,0.0,1.0,,684.3725652402798,False,0.0,0.0,0.0,0.0,0.0,No Data,No uploaded case rows; add DGHS/WHO/UNICEF subnational outbreak feed
+Chattogram,769.0,156.0,23.16102793521153,4.904458598726115,100.0,983.1608776761126,True,0.596143484493088,1.0,0.0,0.203657819392621,50.88231757364973,High,Calculated from uploaded data + population/coverage enrichment
+Dhaka,1677.0,419.0,37.92821308789324,3.9952380952380953,100.0,2151.482020339643,True,1.0,1.0,0.0,1.0,75.0,High,Calculated from uploaded data + population/coverage enrichment
+Khulna,336.0,79.0,19.29189002818855,4.2125,99.0,781.997350933908,True,0.4903293745601435,1.0,0.0,0.0665422646921844,45.27859762932759,Moderate,Calculated from uploaded data + population/coverage enrichment
+Mymensingh,0.0,0.0,0.0,1.0,,1156.7317627022423,False,0.0,0.0,0.0,0.3219658872895554,0.0,No Data,No uploaded case rows; add DGHS/WHO/UNICEF subnational outbreak feed
+Rajshahi,311.0,78.0,15.280213317673818,3.949367088607595,100.0,1118.4876078474474,True,0.3806170792988835,1.0,0.0,0.2958981970283643,43.183665142238986,Moderate,Calculated from uploaded data + population/coverage enrichment
+Rangpur,24.0,6.0,1.3627880280888784,3.571428571428572,98.5,1079.3010970153828,True,0.0,1.0,0.0,0.2691881852457665,27.691881852457666,Moderate,Calculated from uploaded data + population/coverage enrichment
+Sylhet,0.0,0.0,0.0,1.0,,876.0608923467768,False,0.0,0.0,0.0,0.1306571411152922,0.0,No Data,No uploaded case rows; add DGHS/WHO/UNICEF subnational outbreak feed

@@ -1,0 +1,6 @@
+category_key,category,comment_count,avg_confidence,median_confidence,max_confidence,share_of_comments
+seeking_medical_advice_or_sharing_symptoms,seeking medical advice or sharing symptoms,45,52.25644444444444,48.38,91.34,0.391304347826087
+vaccine_hesitancy_conspiracy_or_doubting_the_vaccine,"vaccine hesitancy, conspiracy, or doubting the vaccine",40,44.21225,41.88,92.92,0.3478260869565217
+blaming_politicians_or_the_government,blaming politicians or the government,16,54.05625,52.805,89.64,0.1391304347826087
+reporting_hospital_admission_or_death,reporting hospital admission or death,8,58.95,54.015,96.47,0.0695652173913043
+religious_prayer_or_general_grief,religious prayer or general grief,6,44.925,43.46,61.71,0.0521739130434782

@@ -1,0 +1,409 @@
+date_key,date,division_key,division,series_type,cases_actual,cases_forecast,cases_forecast_lower,cases_forecast_upper,forecast_model,forecast_generated_on
+20260404,2026-04-04,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,chattogram,Chattogram,Actual,230.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,chattogram,Chattogram,Actual,171.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,chattogram,Chattogram,Actual,245.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,chattogram,Chattogram,Actual,145.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,chattogram,Chattogram,Actual,126.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,chattogram,Chattogram,Actual,99.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,chattogram,Chattogram,Actual,112.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,chattogram,Chattogram,Actual,121.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,chattogram,Chattogram,Actual,109.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,chattogram,Chattogram,Actual,102.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,chattogram,Chattogram,Actual,140.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,chattogram,Chattogram,Actual,133.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,chattogram,Chattogram,Actual,92.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,chattogram,Chattogram,Actual,154.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,chattogram,Chattogram,Actual,157.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,chattogram,Chattogram,Actual,162.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,chattogram,Chattogram,Actual,192.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,chattogram,Chattogram,Actual,168.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,chattogram,Chattogram,Actual,165.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,chattogram,Chattogram,Actual,178.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,chattogram,Chattogram,Actual,197.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,chattogram,Chattogram,Actual,156.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,chattogram,Chattogram,Actual,197.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,chattogram,Chattogram,Actual,200.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,chattogram,Chattogram,Actual,212.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,chattogram,Chattogram,Actual,160.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,chattogram,Chattogram,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,chattogram,Chattogram,Forecast,0.0,172.99956959647943,114.41469696520784,231.58444222775103,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,chattogram,Chattogram,Forecast,0.0,174.28485347867317,112.14621240988969,236.42349454745664,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,chattogram,Chattogram,Forecast,0.0,175.57013736086688,110.07025853252176,241.07001618921203,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,chattogram,Chattogram,Forecast,0.0,176.85542124306062,108.15856877381948,245.55227371230177,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,chattogram,Chattogram,Forecast,0.0,178.14070512525433,106.38918282897497,249.89222742153368,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,chattogram,Chattogram,Forecast,0.0,179.42598900744807,104.74463682039764,254.1073411944985,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,chattogram,Chattogram,Forecast,0.0,180.71127288964175,103.21077110327234,258.2117746760112,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,chattogram,Chattogram,Forecast,0.0,181.99655677183551,101.77591610004929,262.2171974436217,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,chattogram,Chattogram,Forecast,0.0,183.2818406540292,100.4303192289846,266.1333620790739,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,chattogram,Chattogram,Forecast,0.0,184.5671245362229,99.165731016577,269.96851805586886,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,chattogram,Chattogram,Forecast,0.0,185.85240841841667,97.97509947150928,273.72971736532406,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,chattogram,Chattogram,Forecast,0.0,187.1376923006104,96.85233999801925,277.4230446032016,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,chattogram,Chattogram,Forecast,0.0,188.4229761828041,95.79215920996408,281.05379315564414,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,chattogram,Chattogram,Forecast,0.0,189.70826006499783,94.78991797186718,284.6266021581285,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,chattogram,Chattogram,Forecast,0.0,190.99354394719157,93.84152349284706,288.14556440153603,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,chattogram,Chattogram,Forecast,0.0,192.27882782938528,92.9433432782232,291.61431238054735,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,chattogram,Chattogram,Forecast,0.0,193.56411171157905,92.09213575926525,295.0360876638928,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,chattogram,Chattogram,Forecast,0.0,194.84939559377275,91.28499381246692,298.4137973750785,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,chattogram,Chattogram,Forecast,0.0,196.13467947596644,90.5192983566781,301.75006059525475,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,chattogram,Chattogram,Forecast,0.0,197.41996335816015,89.79267991374114,305.0472468025792,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,chattogram,Chattogram,Forecast,0.0,198.70524724035388,89.10298652334994,308.3075079573578,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,chattogram,Chattogram,Forecast,0.0,199.9905311225476,88.44825677362245,311.5328054714728,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,chattogram,Chattogram,Forecast,0.0,201.27581500474133,87.82669698444253,314.7249330250401,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,chattogram,Chattogram,Forecast,0.0,202.56109888693504,87.23666178778214,317.8855359860879,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,chattogram,Chattogram,Forecast,0.0,203.8463827691288,86.67663750658558,321.016128031672,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,chattogram,Chattogram,Forecast,0.0,205.1316666513225,86.14522785453336,324.1181054481117,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,chattogram,Chattogram,Forecast,0.0,206.41695053351623,85.6411415724712,327.19275949456124,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,chattogram,Chattogram,Forecast,0.0,207.70223441570997,85.1631816902721,330.2412871411478,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,chattogram,Chattogram,Forecast,0.0,208.98751829790368,84.7102361603367,333.26480043547065,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,chattogram,Chattogram,Forecast,0.0,210.2728021800974,84.28126965448196,336.2643347057128,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260404,2026-04-04,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,dhaka,Dhaka,Actual,490.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,dhaka,Dhaka,Actual,393.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,dhaka,Dhaka,Actual,508.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,dhaka,Dhaka,Actual,507.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,dhaka,Dhaka,Actual,261.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,dhaka,Dhaka,Actual,268.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,dhaka,Dhaka,Actual,357.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,dhaka,Dhaka,Actual,274.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,dhaka,Dhaka,Actual,290.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,dhaka,Dhaka,Actual,315.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,dhaka,Dhaka,Actual,358.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,dhaka,Dhaka,Actual,357.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,dhaka,Dhaka,Actual,330.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,dhaka,Dhaka,Actual,361.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,dhaka,Dhaka,Actual,382.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,dhaka,Dhaka,Actual,445.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,dhaka,Dhaka,Actual,406.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,dhaka,Dhaka,Actual,355.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,dhaka,Dhaka,Actual,363.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,dhaka,Dhaka,Actual,404.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,dhaka,Dhaka,Actual,465.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,dhaka,Dhaka,Actual,419.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,dhaka,Dhaka,Actual,417.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,dhaka,Dhaka,Actual,450.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,dhaka,Dhaka,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,dhaka,Dhaka,Actual,451.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,dhaka,Dhaka,Actual,353.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,dhaka,Dhaka,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,dhaka,Dhaka,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,dhaka,Dhaka,Forecast,0.0,296.9636491849929,17.36220848271347,576.5650898872723,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,dhaka,Dhaka,Forecast,0.0,294.4987269414144,0.0,591.0608390665795,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,dhaka,Dhaka,Forecast,0.0,292.0338046978358,0.0,604.6377187064224,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,dhaka,Dhaka,Forecast,0.0,289.5688824542573,0.0,617.4306334390842,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,dhaka,Dhaka,Forecast,0.0,287.10396021067874,0.0,629.544390744495,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,dhaka,Dhaka,Forecast,0.0,284.6390379671002,0.0,641.0623385094948,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,dhaka,Dhaka,Forecast,0.0,282.1741157235216,0.0,652.0520548803238,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,dhaka,Dhaka,Forecast,0.0,279.70919347994305,0.0,662.5692339388969,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,dhaka,Dhaka,Forecast,0.0,277.2442712363645,0.0,672.6604207365848,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,dhaka,Dhaka,Forecast,0.0,274.779348992786,0.0,682.364986608894,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,dhaka,Dhaka,Forecast,0.0,272.3144267492074,0.0,691.7165878026265,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,dhaka,Dhaka,Forecast,0.0,269.8495045056289,0.0,700.7442635844867,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,dhaka,Dhaka,Forecast,0.0,267.38458226205034,0.0,709.4732771039064,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,dhaka,Dhaka,Forecast,0.0,264.9196600184718,0.0,717.9257690416554,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,dhaka,Dhaka,Forecast,0.0,262.45473777489326,0.0,726.1212726010259,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,dhaka,Dhaka,Forecast,0.0,259.9898155313147,0.0,734.0771241813376,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,dhaka,Dhaka,Forecast,0.0,257.5248932877362,0.0,741.8087944535408,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,dhaka,Dhaka,Forecast,0.0,255.0599710441576,0.0,749.330157919433,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,dhaka,Dhaka,Forecast,0.0,252.59504880057904,0.0,756.6537143734154,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,dhaka,Dhaka,Forecast,0.0,250.1301265570005,0.0,763.7907723577249,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,dhaka,Dhaka,Forecast,0.0,247.66520431342195,0.0,770.751602291582,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,dhaka,Dhaka,Forecast,0.0,245.2002820698434,0.0,777.5455651851488,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,dhaka,Dhaka,Forecast,0.0,242.73535982626487,0.0,784.1812215340292,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,dhaka,Dhaka,Forecast,0.0,240.27043758268636,0.0,790.666424001385,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,dhaka,Dhaka,Forecast,0.0,237.80551533910776,0.0,797.0083967436667,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,dhaka,Dhaka,Forecast,0.0,235.34059309552924,0.0,803.2138036597448,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,dhaka,Dhaka,Forecast,0.0,232.8756708519507,0.0,809.2888073971362,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,dhaka,Dhaka,Forecast,0.0,230.41074860837213,0.0,815.2391206007094,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,dhaka,Dhaka,Forecast,0.0,227.9458263647936,0.0,821.070050615124,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,dhaka,Dhaka,Forecast,0.0,225.48090412121505,0.0,826.7865386348998,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260404,2026-04-04,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,khulna,Khulna,Actual,52.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,khulna,Khulna,Actual,84.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,khulna,Khulna,Actual,57.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,khulna,Khulna,Actual,118.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,khulna,Khulna,Actual,59.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,khulna,Khulna,Actual,48.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,khulna,Khulna,Actual,90.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,khulna,Khulna,Actual,118.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,khulna,Khulna,Actual,76.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,khulna,Khulna,Actual,68.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,khulna,Khulna,Actual,97.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,khulna,Khulna,Actual,73.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,khulna,Khulna,Actual,44.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,khulna,Khulna,Actual,71.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,khulna,Khulna,Actual,88.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,khulna,Khulna,Actual,69.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,khulna,Khulna,Actual,67.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,khulna,Khulna,Actual,72.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,khulna,Khulna,Actual,85.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,khulna,Khulna,Actual,95.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,khulna,Khulna,Actual,73.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,khulna,Khulna,Actual,79.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,khulna,Khulna,Actual,115.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,khulna,Khulna,Actual,98.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,khulna,Khulna,Actual,62.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,khulna,Khulna,Actual,61.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,khulna,Khulna,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,khulna,Khulna,Forecast,0.0,75.8832570728878,36.82036523246947,114.94614891330612,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,khulna,Khulna,Forecast,0.0,75.7665141457756,34.33406057610092,117.1989677154503,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,khulna,Khulna,Forecast,0.0,75.6497712186634,31.97613044221478,119.32341199511202,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,khulna,Khulna,Forecast,0.0,75.5330282915512,29.72772741340717,121.33832916969524,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,khulna,Khulna,Forecast,0.0,75.416285364439,27.574208921162302,123.25836180771572,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,khulna,Khulna,Forecast,0.0,75.29954243732679,25.50393049941244,125.09515437524117,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,khulna,Khulna,Forecast,0.0,75.1827995102146,23.507450859834044,126.85814816059514,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,khulna,Khulna,Forecast,0.0,75.0660565831024,21.576989027148365,128.55512413905643,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,khulna,Khulna,Forecast,0.0,74.9493136559902,19.706042229757287,130.1925850822231,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,khulna,Khulna,Forecast,0.0,74.832570728878,17.889109930121926,131.77603152763407,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,khulna,Khulna,Forecast,0.0,74.7158278017658,16.121490041138316,133.31016556239328,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,khulna,Khulna,Forecast,0.0,74.5990848746536,14.399125510269272,134.79904423903793,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,khulna,Khulna,Forecast,0.0,74.4823419475414,12.718486843277129,136.24619705180567,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,khulna,Khulna,Forecast,0.0,74.3655990204292,11.076480783503364,137.65471725735503,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,khulna,Khulna,Forecast,0.0,74.248856093317,9.47037836286546,139.02733382376854,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,khulna,Khulna,Forecast,0.0,74.13211316620479,7.897757526992635,140.36646880541696,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,khulna,Khulna,Forecast,0.0,74.01537023909259,6.35645688092032,141.67428359726486,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,khulna,Khulna,Forecast,0.0,73.89862731198039,4.844538029189252,142.95271659477152,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,khulna,Khulna,Forecast,0.0,73.78188438486819,3.360254635602118,144.20351413413425,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,khulna,Khulna,Forecast,0.0,73.665141457756,1.9020267928409424,145.42825612267103,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,khulna,Khulna,Forecast,0.0,73.5483985306438,0.4684196289174167,146.62837743237017,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,khulna,Khulna,Forecast,0.0,73.4316556035316,0.0,147.80518588241375,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,khulna,Khulna,Forecast,0.0,73.3149126764194,0.0,148.95987745274027,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,khulna,Khulna,Forecast,0.0,73.1981697493072,0.0,150.0935492325886,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,khulna,Khulna,Forecast,0.0,73.081426822195,0.0,151.20721050303166,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,khulna,Khulna,Forecast,0.0,72.96468389508279,0.0,152.30179227200756,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,khulna,Khulna,Forecast,0.0,72.84794096797059,0.0,153.3781555180321,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,khulna,Khulna,Forecast,0.0,72.73119804085839,0.0,154.4370983501137,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,khulna,Khulna,Forecast,0.0,72.61445511374619,0.0,155.47936225309556,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,khulna,Khulna,Forecast,0.0,72.49771218663399,0.0,156.50563755727995,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260404,2026-04-04,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,rajshahi,Rajshahi,Actual,172.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,rajshahi,Rajshahi,Actual,118.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,rajshahi,Rajshahi,Actual,152.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,rajshahi,Rajshahi,Actual,273.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,rajshahi,Rajshahi,Actual,116.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,rajshahi,Rajshahi,Actual,89.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,rajshahi,Rajshahi,Actual,79.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,rajshahi,Rajshahi,Actual,108.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,rajshahi,Rajshahi,Actual,119.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,rajshahi,Rajshahi,Actual,111.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,rajshahi,Rajshahi,Actual,74.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,rajshahi,Rajshahi,Actual,90.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,rajshahi,Rajshahi,Actual,85.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,rajshahi,Rajshahi,Actual,96.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,rajshahi,Rajshahi,Actual,100.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,rajshahi,Rajshahi,Actual,105.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,rajshahi,Rajshahi,Actual,89.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,rajshahi,Rajshahi,Actual,93.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,rajshahi,Rajshahi,Actual,111.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,rajshahi,Rajshahi,Actual,117.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,rajshahi,Rajshahi,Actual,97.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,rajshahi,Rajshahi,Actual,78.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,rajshahi,Rajshahi,Actual,82.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,rajshahi,Rajshahi,Actual,98.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,rajshahi,Rajshahi,Actual,72.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,rajshahi,Rajshahi,Actual,59.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,rajshahi,Rajshahi,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,rajshahi,Rajshahi,Forecast,0.0,77.37167530542538,46.46836840162996,108.2749822092208,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,rajshahi,Rajshahi,Forecast,0.0,76.88620775370792,44.10830094456373,109.66411456285212,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,rajshahi,Rajshahi,Forecast,0.0,76.40074020199044,41.84979271877789,110.951687685203,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,rajshahi,Rajshahi,Forecast,0.0,75.91527265027298,39.67793321721742,112.15261208332852,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,rajshahi,Rajshahi,Forecast,0.0,75.4298050985555,37.58113845909177,113.27847173801923,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,rajshahi,Rajshahi,Forecast,0.0,74.94433754683803,35.55019631258816,114.3384787810879,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,rajshahi,Rajshahi,Forecast,0.0,74.45886999512057,33.577637616646484,115.34010237359465,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,rajshahi,Rajshahi,Forecast,0.0,73.97340244340309,31.657306711618368,116.28949817518782,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,rajshahi,Rajshahi,Forecast,0.0,73.48793489168563,29.78405914616004,117.1918106372112,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,rajshahi,Rajshahi,Forecast,0.0,73.00246733996815,27.9535433530502,118.05139132688608,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,rajshahi,Rajshahi,Forecast,0.0,72.51699978825067,26.162039432557545,118.8719601439438,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,rajshahi,Rajshahi,Forecast,0.0,72.03153223653321,24.40633778258212,119.6567266904843,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,rajshahi,Rajshahi,Forecast,0.0,71.54606468481573,22.68364616121597,120.40848320841548,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,rajshahi,Rajshahi,Forecast,0.0,71.06059713309826,20.99151744139436,121.12967682480216,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,rajshahi,Rajshahi,Forecast,0.0,70.57512958138079,19.32779269083625,121.82246647192534,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,rajshahi,Rajshahi,Forecast,0.0,70.08966202966332,17.690555781829865,122.48876827749676,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,rajshahi,Rajshahi,Forecast,0.0,69.60419447794585,16.078096798678132,123.13029215721356,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,rajshahi,Rajshahi,Forecast,0.0,69.11872692622838,14.488882244321388,123.74857160813536,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,rajshahi,Rajshahi,Forecast,0.0,68.6332593745109,12.921530562993553,124.34498818602825,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,rajshahi,Rajshahi,Forecast,0.0,68.14779182279344,11.374791863597835,124.92079178198904,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,rajshahi,Rajshahi,Forecast,0.0,67.66232427107596,9.847530994911814,125.47711754724013,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,rajshahi,Rajshahi,Forecast,0.0,67.17685671935848,8.338713319312582,126.0150001194044,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,rajshahi,Rajshahi,Forecast,0.0,66.69138916764102,6.847392677072833,126.5353856582092,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,rajshahi,Rajshahi,Forecast,0.0,66.20592161592354,5.372701142551357,127.03914208929572,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,rajshahi,Rajshahi,Forecast,0.0,65.72045406420608,3.913840256615231,127.52706787179692,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,rajshahi,Rajshahi,Forecast,0.0,65.2349865124886,2.4700734833171936,127.99989954166,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,rajshahi,Rajshahi,Forecast,0.0,64.74951896077113,1.040719688157118,128.45831823338514,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,rajshahi,Rajshahi,Forecast,0.0,64.26405140905366,0.0,128.90295534435407,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,rajshahi,Rajshahi,Forecast,0.0,63.77858385733619,0.0,129.33439747562457,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,rajshahi,Rajshahi,Forecast,0.0,63.29311630561872,0.0,129.7531907590418,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260404,2026-04-04,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,rangpur,Rangpur,Actual,39.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,rangpur,Rangpur,Actual,113.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,rangpur,Rangpur,Actual,60.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,rangpur,Rangpur,Actual,62.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,rangpur,Rangpur,Actual,17.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,rangpur,Rangpur,Actual,4.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,rangpur,Rangpur,Actual,11.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,rangpur,Rangpur,Actual,11.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,rangpur,Rangpur,Actual,8.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,rangpur,Rangpur,Actual,8.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,rangpur,Rangpur,Actual,4.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,rangpur,Rangpur,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,rangpur,Rangpur,Actual,15.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,rangpur,Rangpur,Actual,9.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,rangpur,Rangpur,Actual,8.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,rangpur,Rangpur,Actual,9.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,rangpur,Rangpur,Actual,7.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,rangpur,Rangpur,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,rangpur,Rangpur,Actual,8.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,rangpur,Rangpur,Actual,13.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,rangpur,Rangpur,Actual,6.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,rangpur,Rangpur,Actual,5.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,rangpur,Rangpur,Actual,4.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,rangpur,Rangpur,Actual,14.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,rangpur,Rangpur,Actual,1.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,rangpur,Rangpur,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,rangpur,Rangpur,Forecast,0.0,6.095409182555539,0.0,14.6939699383422,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,rangpur,Rangpur,Forecast,0.0,6.047961222253933,0.0,15.16811215054584,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,rangpur,Rangpur,Forecast,0.0,6.000513261952329,0.0,15.613996441252798,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,rangpur,Rangpur,Forecast,0.0,5.9530653016507245,0.0,16.035771521835976,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,rangpur,Rangpur,Forecast,0.0,5.90561734134912,0.0,16.43666052834782,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,rangpur,Rangpur,Forecast,0.0,5.858169381047515,0.0,16.81922665168984,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,rangpur,Rangpur,Forecast,0.0,5.81072142074591,0.0,17.18554811719146,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,rangpur,Rangpur,Forecast,0.0,5.763273460444306,0.0,17.537337680501864,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,rangpur,Rangpur,Forecast,0.0,5.715825500142701,0.0,17.876026737865246,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,rangpur,Rangpur,Forecast,0.0,5.668377539841096,0.0,18.202826072815263,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,rangpur,Rangpur,Forecast,0.0,5.620929579539491,0.0,18.51877071321948,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,rangpur,Rangpur,Forecast,0.0,5.573481619237887,0.0,18.824753701325584,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,rangpur,Rangpur,Forecast,0.0,5.5260336589362815,0.0,19.121551952748625,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,rangpur,Rangpur,Forecast,0.0,5.478585698634677,0.0,19.40984635807449,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,rangpur,Rangpur,Forecast,0.0,5.431137738333073,0.0,19.69023762034262,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,rangpur,Rangpur,Forecast,0.0,5.383689778031467,0.0,19.9632588844555,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,rangpur,Rangpur,Forecast,0.0,5.336241817729863,0.0,20.2293859187202,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,rangpur,Rangpur,Forecast,0.0,5.288793857428258,0.0,20.48904540458144,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,rangpur,Rangpur,Forecast,0.0,5.241345897126654,0.0,20.74262174721725,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,rangpur,Rangpur,Forecast,0.0,5.193897936825048,0.0,20.99046271732309,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,rangpur,Rangpur,Forecast,0.0,5.146449976523444,0.0,21.232884160280285,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,rangpur,Rangpur,Forecast,0.0,5.09900201622184,0.0,21.470173954486057,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,rangpur,Rangpur,Forecast,0.0,5.051554055920235,0.0,21.70259536017743,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,rangpur,Rangpur,Forecast,0.0,5.00410609561863,0.0,21.930389869676908,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,rangpur,Rangpur,Forecast,0.0,4.956658135317025,0.0,22.153779646890342,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,rangpur,Rangpur,Forecast,0.0,4.909210175015421,0.0,22.372969626167027,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,rangpur,Rangpur,Forecast,0.0,4.861762214713815,0.0,22.588149326913424,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,rangpur,Rangpur,Forecast,0.0,4.814314254412211,0.0,22.79949442964053,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,rangpur,Rangpur,Forecast,0.0,4.766866294110606,0.0,23.007168150694422,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,rangpur,Rangpur,Forecast,0.0,4.719418333809001,0.0,23.21132244623518,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260404,2026-04-04,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260405,2026-04-05,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,983.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260406,2026-04-06,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,879.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260407,2026-04-07,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,1022.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260408,2026-04-08,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,1105.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260409,2026-04-09,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,579.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260410,2026-04-10,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260411,2026-04-11,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,508.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260412,2026-04-12,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,649.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260413,2026-04-13,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,632.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260414,2026-04-14,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,602.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260415,2026-04-15,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,596.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260416,2026-04-16,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,677.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260417,2026-04-17,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,657.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260418,2026-04-18,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,554.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260419,2026-04-19,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,697.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260420,2026-04-20,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,736.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260421,2026-04-21,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,789.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260422,2026-04-22,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,763.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260423,2026-04-23,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,695.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260424,2026-04-24,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,727.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260425,2026-04-25,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260426,2026-04-26,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,802.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260427,2026-04-27,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,845.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260428,2026-04-28,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260429,2026-04-29,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260430,2026-04-30,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260501,2026-05-01,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260502,2026-05-02,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260503,2026-05-03,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,738.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260504,2026-05-04,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260505,2026-05-05,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,816.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260506,2026-05-06,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,850.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260507,2026-05-07,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,0.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260508,2026-05-08,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,811.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260509,2026-05-09,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,634.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260510,2026-05-10,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260511,2026-05-11,national_uploaded_5_divisions,National_uploaded_5_divisions,Actual,3.0,0.0,0.0,0.0,Actual uploaded/modeled data,2026-05-16
+20260512,2026-05-12,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,544.981041411847,24.450141932762108,1065.5119408909318,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260513,2026-05-13,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,539.9620828236939,0.0,1092.068476081885,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260514,2026-05-14,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,534.9431242355407,0.0,1116.9143620477123,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260515,2026-05-15,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,529.9241656473877,0.0,1140.300749245329,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260516,2026-05-16,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,524.9052070592346,0.0,1162.4227565970946,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260517,2026-05-17,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,519.8862484710816,0.0,1183.435551939046,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260518,2026-05-18,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,514.8672898829285,0.0,1203.4649447561385,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260519,2026-05-19,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,509.8483312947754,0.0,1222.6146201026477,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260520,2026-05-20,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,504.8293727066224,0.0,1240.9712303842102,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260521,2026-05-21,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,499.8104141184692,0.0,1258.6080727792437,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260522,2026-05-22,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,494.79145553031617,0.0,1275.5878047489432,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260523,2026-05-23,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,489.7724969421631,0.0,1291.96448837389,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260524,2026-05-24,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,484.75353835401,0.0,1307.7851557790411,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260525,2026-05-25,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,479.73457976585695,0.0,1323.0910260240958,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260526,2026-05-26,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,474.71562117770384,0.0,1337.9184638568677,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260527,2026-05-27,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,469.6966625895508,0.0,1352.2997442595913,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260528,2026-05-28,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,464.6777040013977,0.0,1366.2636688087005,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260529,2026-05-29,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,459.6587454132447,0.0,1379.8360675102297,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260530,2026-05-30,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,454.6397868250916,0.0,1393.0402110927075,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260531,2026-05-31,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,449.6208282369385,0.0,1405.8971525437285,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260601,2026-06-01,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,444.6018696487854,0.0,1418.4260121887862,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260602,2026-06-02,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,439.58291106063234,0.0,1430.644217316623,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260603,2026-06-03,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,434.5639524724793,0.0,1442.5677049069104,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260604,2026-06-04,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,429.54499388432623,0.0,1454.2110941755172,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260605,2026-06-05,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,424.5260352961731,0.0,1465.5878342543429,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260606,2026-06-06,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,419.50707670802,0.0,1476.7103312499662,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260607,2026-06-07,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,414.48811811986695,0.0,1487.590058094885,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260608,2026-06-08,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,409.4691595317139,0.0,1498.2376499566572,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260609,2026-06-09,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,404.4502009435608,0.0,1508.662987459943,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16
+20260610,2026-06-10,national_uploaded_5_divisions,National_uploaded_5_divisions,Forecast,0.0,399.4312423554077,0.0,1518.875269571747,Damped linear trend over last 21 valid observations; uncertainty from residual spread,2026-05-16

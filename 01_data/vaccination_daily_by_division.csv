@@ -1,0 +1,305 @@
+date_key,date,division_key,division,vax_coverage_avg,vax_coverage_min,vax_coverage_max,vax_coverage_capped_100,coverage_gap_to_95_pct_points,coverage_status,vax_observations,coverage_gt_100_flag,vax_duplicate_reading_flag,vax_source_files,has_uploaded_vax_row
+20260404,2026-04-04,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260417,2026-04-17,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260418,2026-04-18,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260420,2026-04-20,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260421,2026-04-21,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260422,2026-04-22,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260423,2026-04-23,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260424,2026-04-24,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260428,2026-04-28,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260429,2026-04-29,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260430,2026-04-30,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260501,2026-05-01,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260502,2026-05-02,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260509,2026-05-09,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260511,2026-05-11,barishal,Barishal,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260404,2026-04-04,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,chattogram,Chattogram,123.0,123.0,123.0,100.0,0.0,Meets 95% target,1,True,False,501f51e4-f446-4044-ac5f-30644a9288f1.pdf,True
+20260417,2026-04-17,chattogram,Chattogram,116.0,116.0,116.0,100.0,0.0,Meets 95% target,1,True,False,009ad3ca-2655-4ab3-a779-2802ba9b860b.pdf,True
+20260418,2026-04-18,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,chattogram,Chattogram,100.0,100.0,100.0,100.0,0.0,Meets 95% target,1,False,False,355f0db2-d34b-4e7c-81e7-65cc6d34b5ef.pdf,True
+20260420,2026-04-20,chattogram,Chattogram,100.0,100.0,100.0,100.0,0.0,Meets 95% target,1,False,False,df35201c-7d6d-4caa-b524-260a7b0f7479.pdf,True
+20260421,2026-04-21,chattogram,Chattogram,87.0,77.0,97.0,87.0,8.0,Low 80-89%,2,False,True,51b7b213-8277-4878-bdb4-838be5272105.pdf,True
+20260422,2026-04-22,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260423,2026-04-23,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260424,2026-04-24,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260428,2026-04-28,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260429,2026-04-29,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260430,2026-04-30,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260501,2026-05-01,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260502,2026-05-02,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,chattogram,Chattogram,110.5,101.0,120.0,100.0,0.0,Meets 95% target,2,True,True,9e852147-7950-4eab-847d-1235f9c0d617.pdf,True
+20260507,2026-05-07,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,chattogram,Chattogram,109.5,102.0,117.0,100.0,0.0,Meets 95% target,2,True,True,d7d30198-1c55-41fa-8c4f-33ec501d638b.pdf,True
+20260509,2026-05-09,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260511,2026-05-11,chattogram,Chattogram,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260404,2026-04-04,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,dhaka,Dhaka,92.0,92.0,92.0,92.0,3.0,Near target 90-94%,1,False,False,501f51e4-f446-4044-ac5f-30644a9288f1.pdf,True
+20260417,2026-04-17,dhaka,Dhaka,92.33333333333331,89.0,95.0,92.33333333333331,2.6666666666666714,Near target 90-94%,3,False,True,009ad3ca-2655-4ab3-a779-2802ba9b860b.pdf,True
+20260418,2026-04-18,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,dhaka,Dhaka,92.66666666666669,90.0,95.0,92.66666666666669,2.3333333333333286,Near target 90-94%,3,False,True,355f0db2-d34b-4e7c-81e7-65cc6d34b5ef.pdf,True
+20260420,2026-04-20,dhaka,Dhaka,98.33333333333331,94.0,103.0,98.33333333333331,0.0,Meets 95% target,3,True,True,df35201c-7d6d-4caa-b524-260a7b0f7479.pdf,True
+20260421,2026-04-21,dhaka,Dhaka,96.66666666666669,93.0,103.0,96.66666666666669,0.0,Meets 95% target,3,True,True,51b7b213-8277-4878-bdb4-838be5272105.pdf,True
+20260422,2026-04-22,dhaka,Dhaka,96.66666666666669,93.0,102.0,96.66666666666669,0.0,Meets 95% target,3,True,True,cc6e4c1b-50ae-44bd-9d41-238acb41ac99.pdf,True
+20260423,2026-04-23,dhaka,Dhaka,96.66666666666669,93.0,101.0,96.66666666666669,0.0,Meets 95% target,3,True,True,5f159ac3-55ec-470b-ad8a-40f3642e7957.pdf,True
+20260424,2026-04-24,dhaka,Dhaka,97.33333333333331,95.0,100.0,97.33333333333331,0.0,Meets 95% target,3,False,True,e66eb1d2-7472-4440-be96-c15bb880f15e.pdf,True
+20260425,2026-04-25,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,dhaka,Dhaka,98.66666666666669,97.0,101.0,98.66666666666669,0.0,Meets 95% target,3,True,True,1b00ae7a-c18d-4b22-8c21-c97268764ff6.pdf,True
+20260427,2026-04-27,dhaka,Dhaka,98.33333333333331,97.0,100.0,98.33333333333331,0.0,Meets 95% target,3,False,True,abb6445f-bcf8-471e-af5f-fec567f3cf62.pdf,True
+20260428,2026-04-28,dhaka,Dhaka,99.0,99.0,99.0,99.0,0.0,Meets 95% target,1,False,False,dea6de3a-6418-47bb-becd-6c4f2cfaf879.pdf,True
+20260429,2026-04-29,dhaka,Dhaka,98.5,98.0,99.0,98.5,0.0,Meets 95% target,2,False,True,996ee162-7b6c-49ad-ac52-48649efce18c.pdf,True
+20260430,2026-04-30,dhaka,Dhaka,98.0,97.0,99.0,98.0,0.0,Meets 95% target,2,False,True,0290733a-8726-4ce3-9971-c69d95994ef2.pdf,True
+20260501,2026-05-01,dhaka,Dhaka,98.66666666666669,97.0,100.0,98.66666666666669,0.0,Meets 95% target,3,False,True,20c2c9f8-5556-447d-9e44-da3ad89dabb3.pdf,True
+20260502,2026-05-02,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,dhaka,Dhaka,99.66666666666669,98.0,101.0,99.66666666666669,0.0,Meets 95% target,3,True,True,2d5f3eb0-70f1-4171-8e56-a83fc7804b3f.pdf,True
+20260504,2026-05-04,dhaka,Dhaka,99.66666666666669,98.0,101.0,99.66666666666669,0.0,Meets 95% target,3,True,True,013ded18-6af2-4f6f-bbf3-aa0e639c0258.pdf,True
+20260505,2026-05-05,dhaka,Dhaka,100.33333333333331,98.0,102.0,100.0,0.0,Meets 95% target,3,True,True,de88d227-13ed-4af4-a910-0d93fea0d297.pdf,True
+20260506,2026-05-06,dhaka,Dhaka,100.33333333333331,98.0,102.0,100.0,0.0,Meets 95% target,3,True,True,9e852147-7950-4eab-847d-1235f9c0d617.pdf,True
+20260507,2026-05-07,dhaka,Dhaka,100.0,99.0,101.0,100.0,0.0,Meets 95% target,2,True,True,b74eaa3f-69eb-467f-bd26-d54fa103d2bb.pdf,True
+20260508,2026-05-08,dhaka,Dhaka,100.66666666666669,99.0,102.0,100.0,0.0,Meets 95% target,3,True,True,d7d30198-1c55-41fa-8c4f-33ec501d638b.pdf,True
+20260509,2026-05-09,dhaka,Dhaka,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,dhaka,Dhaka,101.0,99.0,103.0,100.0,0.0,Meets 95% target,3,True,True,758c39cc-643d-469e-9fd1-ce1adfd0bbad.pdf,True
+20260511,2026-05-11,dhaka,Dhaka,101.0,99.0,103.0,100.0,0.0,Meets 95% target,3,True,True,8a09e9e6-374b-40e7-a112-80a5e11a552f.pdf,True
+20260404,2026-04-04,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,khulna,Khulna,104.0,104.0,104.0,100.0,0.0,Meets 95% target,1,True,False,501f51e4-f446-4044-ac5f-30644a9288f1.pdf,True
+20260417,2026-04-17,khulna,Khulna,103.0,103.0,103.0,100.0,0.0,Meets 95% target,1,True,False,009ad3ca-2655-4ab3-a779-2802ba9b860b.pdf,True
+20260418,2026-04-18,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,khulna,Khulna,101.0,101.0,101.0,100.0,0.0,Meets 95% target,1,True,False,355f0db2-d34b-4e7c-81e7-65cc6d34b5ef.pdf,True
+20260420,2026-04-20,khulna,Khulna,100.0,100.0,100.0,100.0,0.0,Meets 95% target,1,False,False,df35201c-7d6d-4caa-b524-260a7b0f7479.pdf,True
+20260421,2026-04-21,khulna,Khulna,85.0,74.0,96.0,85.0,10.0,Low 80-89%,2,False,True,51b7b213-8277-4878-bdb4-838be5272105.pdf,True
+20260422,2026-04-22,khulna,Khulna,88.5,81.0,96.0,88.5,6.5,Low 80-89%,2,False,True,cc6e4c1b-50ae-44bd-9d41-238acb41ac99.pdf,True
+20260423,2026-04-23,khulna,Khulna,86.5,76.0,97.0,86.5,8.5,Low 80-89%,2,False,True,5f159ac3-55ec-470b-ad8a-40f3642e7957.pdf,True
+20260424,2026-04-24,khulna,Khulna,82.0,67.0,97.0,82.0,13.0,Low 80-89%,2,False,True,e66eb1d2-7472-4440-be96-c15bb880f15e.pdf,True
+20260425,2026-04-25,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,khulna,Khulna,90.5,84.0,97.0,90.5,4.5,Near target 90-94%,2,False,True,1b00ae7a-c18d-4b22-8c21-c97268764ff6.pdf,True
+20260427,2026-04-27,khulna,Khulna,93.0,88.0,98.0,93.0,2.0,Near target 90-94%,2,False,True,abb6445f-bcf8-471e-af5f-fec567f3cf62.pdf,True
+20260428,2026-04-28,khulna,Khulna,98.0,96.0,100.0,98.0,0.0,Meets 95% target,2,False,True,dea6de3a-6418-47bb-becd-6c4f2cfaf879.pdf,True
+20260429,2026-04-29,khulna,Khulna,98.5,98.0,99.0,98.5,0.0,Meets 95% target,2,False,True,996ee162-7b6c-49ad-ac52-48649efce18c.pdf,True
+20260430,2026-04-30,khulna,Khulna,97.0,95.0,99.0,97.0,0.0,Meets 95% target,2,False,True,0290733a-8726-4ce3-9971-c69d95994ef2.pdf,True
+20260501,2026-05-01,khulna,Khulna,97.5,95.0,100.0,97.5,0.0,Meets 95% target,2,False,True,20c2c9f8-5556-447d-9e44-da3ad89dabb3.pdf,True
+20260502,2026-05-02,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,khulna,Khulna,97.5,95.0,100.0,97.5,0.0,Meets 95% target,2,False,True,2d5f3eb0-70f1-4171-8e56-a83fc7804b3f.pdf,True
+20260504,2026-05-04,khulna,Khulna,98.0,96.0,100.0,98.0,0.0,Meets 95% target,2,False,True,013ded18-6af2-4f6f-bbf3-aa0e639c0258.pdf,True
+20260505,2026-05-05,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,khulna,Khulna,97.5,96.0,99.0,97.5,0.0,Meets 95% target,2,False,True,b74eaa3f-69eb-467f-bd26-d54fa103d2bb.pdf,True
+20260508,2026-05-08,khulna,Khulna,98.0,97.0,99.0,98.0,0.0,Meets 95% target,2,False,True,d7d30198-1c55-41fa-8c4f-33ec501d638b.pdf,True
+20260509,2026-05-09,khulna,Khulna,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,khulna,Khulna,98.0,97.0,99.0,98.0,0.0,Meets 95% target,2,False,True,758c39cc-643d-469e-9fd1-ce1adfd0bbad.pdf,True
+20260511,2026-05-11,khulna,Khulna,99.0,98.0,100.0,99.0,0.0,Meets 95% target,2,False,True,8a09e9e6-374b-40e7-a112-80a5e11a552f.pdf,True
+20260404,2026-04-04,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260417,2026-04-17,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260418,2026-04-18,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260420,2026-04-20,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260421,2026-04-21,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260422,2026-04-22,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260423,2026-04-23,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260424,2026-04-24,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260428,2026-04-28,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260429,2026-04-29,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260430,2026-04-30,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260501,2026-05-01,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260502,2026-05-02,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260509,2026-05-09,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260511,2026-05-11,mymensingh,Mymensingh,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260404,2026-04-04,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,rajshahi,Rajshahi,130.0,130.0,130.0,100.0,0.0,Meets 95% target,1,True,False,501f51e4-f446-4044-ac5f-30644a9288f1.pdf,True
+20260417,2026-04-17,rajshahi,Rajshahi,113.0,113.0,113.0,100.0,0.0,Meets 95% target,1,True,False,009ad3ca-2655-4ab3-a779-2802ba9b860b.pdf,True
+20260418,2026-04-18,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,rajshahi,Rajshahi,110.0,110.0,110.0,100.0,0.0,Meets 95% target,1,True,False,355f0db2-d34b-4e7c-81e7-65cc6d34b5ef.pdf,True
+20260420,2026-04-20,rajshahi,Rajshahi,107.0,107.0,107.0,100.0,0.0,Meets 95% target,1,True,False,df35201c-7d6d-4caa-b524-260a7b0f7479.pdf,True
+20260421,2026-04-21,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260422,2026-04-22,rajshahi,Rajshahi,93.0,83.0,103.0,93.0,2.0,Near target 90-94%,2,True,True,cc6e4c1b-50ae-44bd-9d41-238acb41ac99.pdf,True
+20260423,2026-04-23,rajshahi,Rajshahi,97.5,91.0,104.0,97.5,0.0,Meets 95% target,2,True,True,5f159ac3-55ec-470b-ad8a-40f3642e7957.pdf,True
+20260424,2026-04-24,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,rajshahi,Rajshahi,102.0,100.0,104.0,100.0,0.0,Meets 95% target,2,True,True,abb6445f-bcf8-471e-af5f-fec567f3cf62.pdf,True
+20260428,2026-04-28,rajshahi,Rajshahi,102.0,100.0,104.0,100.0,0.0,Meets 95% target,2,True,True,dea6de3a-6418-47bb-becd-6c4f2cfaf879.pdf,True
+20260429,2026-04-29,rajshahi,Rajshahi,102.0,100.0,104.0,100.0,0.0,Meets 95% target,2,True,True,996ee162-7b6c-49ad-ac52-48649efce18c.pdf,True
+20260430,2026-04-30,rajshahi,Rajshahi,100.0,99.0,101.0,100.0,0.0,Meets 95% target,2,True,True,0290733a-8726-4ce3-9971-c69d95994ef2.pdf,True
+20260501,2026-05-01,rajshahi,Rajshahi,101.5,100.0,103.0,100.0,0.0,Meets 95% target,2,True,True,20c2c9f8-5556-447d-9e44-da3ad89dabb3.pdf,True
+20260502,2026-05-02,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,rajshahi,Rajshahi,103.0,103.0,103.0,100.0,0.0,Meets 95% target,1,True,False,d7d30198-1c55-41fa-8c4f-33ec501d638b.pdf,True
+20260509,2026-05-09,rajshahi,Rajshahi,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,rajshahi,Rajshahi,103.5,102.0,105.0,100.0,0.0,Meets 95% target,2,True,True,758c39cc-643d-469e-9fd1-ce1adfd0bbad.pdf,True
+20260511,2026-05-11,rajshahi,Rajshahi,103.5,102.0,105.0,100.0,0.0,Meets 95% target,2,True,True,8a09e9e6-374b-40e7-a112-80a5e11a552f.pdf,True
+20260404,2026-04-04,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260417,2026-04-17,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260418,2026-04-18,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260420,2026-04-20,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260421,2026-04-21,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260422,2026-04-22,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260423,2026-04-23,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260424,2026-04-24,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260428,2026-04-28,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260429,2026-04-29,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260430,2026-04-30,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260501,2026-05-01,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260502,2026-05-02,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,rangpur,Rangpur,100.5,99.0,102.0,100.0,0.0,Meets 95% target,2,True,True,d7d30198-1c55-41fa-8c4f-33ec501d638b.pdf,True
+20260509,2026-05-09,rangpur,Rangpur,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,rangpur,Rangpur,98.0,94.0,102.0,98.0,0.0,Meets 95% target,2,True,True,758c39cc-643d-469e-9fd1-ce1adfd0bbad.pdf,True
+20260511,2026-05-11,rangpur,Rangpur,98.5,95.0,102.0,98.5,0.0,Meets 95% target,2,True,True,8a09e9e6-374b-40e7-a112-80a5e11a552f.pdf,True
+20260404,2026-04-04,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260405,2026-04-05,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260406,2026-04-06,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260407,2026-04-07,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260408,2026-04-08,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260409,2026-04-09,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260410,2026-04-10,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260411,2026-04-11,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260412,2026-04-12,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260413,2026-04-13,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260414,2026-04-14,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260415,2026-04-15,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260416,2026-04-16,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260417,2026-04-17,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260418,2026-04-18,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260419,2026-04-19,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260420,2026-04-20,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260421,2026-04-21,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260422,2026-04-22,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260423,2026-04-23,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260424,2026-04-24,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260425,2026-04-25,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260426,2026-04-26,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260427,2026-04-27,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260428,2026-04-28,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260429,2026-04-29,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260430,2026-04-30,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260501,2026-05-01,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260502,2026-05-02,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260503,2026-05-03,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260504,2026-05-04,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260505,2026-05-05,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260506,2026-05-06,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260507,2026-05-07,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260508,2026-05-08,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260509,2026-05-09,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260510,2026-05-10,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
+20260511,2026-05-11,sylhet,Sylhet,,,,,,No data,0,False,False,No uploaded vaccination row,False
