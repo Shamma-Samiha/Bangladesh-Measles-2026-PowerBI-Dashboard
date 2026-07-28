@@ -1,4 +1,4 @@
-# Bangladesh Measles 2026 Power BI Dashboard
+# Bangladesh Measles Surveillance Dashboard
 
 A portfolio-level Power BI dashboard for simulated Bangladesh measles outbreak monitoring, covering cases analysis, vaccination tracking, risk drivers, forecasting, and social signal insights.
 
